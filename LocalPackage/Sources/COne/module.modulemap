@@ -1,0 +1,4 @@
+module COne [system] {
+  header "Header.h"
+  export *
+}
